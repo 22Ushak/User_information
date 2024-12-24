@@ -25,6 +25,6 @@ Open a terminal and run the following command:
    ```bash
    git clone https://github.com/22Ushak/User_information.git 
 
-
-
+2.Run the "final.py" script
+3.For more details ,you can view the 'final.py' script directly here (https://github.com/22Ushak/User_information/blob/7d43bd3c8f979a88961df5209acc18c55695b7db/final.py)
 
